@@ -1,0 +1,8 @@
+{
+  "name": "ui",
+  "packageManager": "yarn@4.0.1",
+  "main": "src/main.js",
+  "dependencies": {
+    "electron": "^26.4.3"
+  }
+}
