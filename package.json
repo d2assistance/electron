@@ -4,5 +4,8 @@
   "main": "src/main.js",
   "dependencies": {
     "electron": "^26.4.3"
+  },
+  "scripts": {
+    "start": "electron ."
   }
 }
